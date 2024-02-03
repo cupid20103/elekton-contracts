@@ -111,6 +111,6 @@ Now you can interact with the contract using Remix or Web3.js on `http://localho
 
 ### Developers
 
--   e-mail : me@cupid20103.dev
+-   e-mail : webphantom20103@gmail.com
 -   github : [@cupid20103](https://github.com/cupid20103)
--   website : https://cupid20103.dev
+-   website : https://kiyoshi-araki.vercel.app/
